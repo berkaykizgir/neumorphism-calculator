@@ -76,7 +76,7 @@ class HomeScreen extends StatelessWidget {
         body: Column(
       crossAxisAlignment: CrossAxisAlignment.end,
       children: [
-        const SizedBox(height: 30),
+        const SizedBox(height: 70),
         const Padding(
           padding: EdgeInsets.symmetric(horizontal: 36),
           child: CalculationText(),
@@ -95,7 +95,7 @@ class HomeScreen extends StatelessWidget {
           shrinkWrap: true,
         ),
         const SizedBox(
-          height: 55,
+          height: 70,
         ),
       ],
     ));
