@@ -1,16 +1,17 @@
-# neumorphism_calculator
+# Neumorphism Calculator
 
-A new Flutter project.
+Calculator app with neumorphism UI.
+Simple flutter_riverpod tutorial
 
-## Getting Started
+![neu_calculator_1](https://user-images.githubusercontent.com/83041330/192882128-78df1d13-7229-4fb9-81ef-e367457cd48e.png)
+#
+![neu_calculator_2](https://user-images.githubusercontent.com/83041330/192882155-61109a45-58f0-4148-886e-456a19f79b2b.png)
+#
+![neu_cal_3](https://user-images.githubusercontent.com/83041330/192882209-c8955c85-098c-4206-bd86-e663f6081fca.png)
+#
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Dependicies
+https://pub.dev/packages/function_tree
+https://pub.dev/packages/flutter_riverpod
+https://pub.dev/packages/flutter_inset_box_shadow
