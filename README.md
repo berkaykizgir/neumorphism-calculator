@@ -11,7 +11,9 @@ Simple flutter_riverpod tutorial
 #
 
 
-# Dependicies
-# https://pub.dev/packages/function_tree
-# https://pub.dev/packages/flutter_riverpod
-# https://pub.dev/packages/flutter_inset_box_shadow
+# Dependencies
+ https://pub.dev/packages/function_tree
+ #
+ https://pub.dev/packages/flutter_riverpod
+ #
+ https://pub.dev/packages/flutter_inset_box_shadow
